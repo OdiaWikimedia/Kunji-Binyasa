@@ -8,10 +8,7 @@ Unicode IME (Input Method Editor) for various Odia Keyboard layouts
 5. Double click on the new entry and assign a hotkey. Use something easy to remember. 
 6. Press the Hotkey to switch to Odia and press it again to switch back to English. You can also seamlessly switch between multiple layouts.
 
-
-==========================================================================
-List of layouts
-==========================================================================
+# List of layouts
 1. Shree Lipi Modular
   a)Odia Modular with e kar and reph placement - This is the recommended one. Typing is exactly like Shree Lipi's system.
   b)Odia Modular with e kar placement - Exists only for easier bug fixing. Not useful for general users.
